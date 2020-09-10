@@ -1,7 +1,7 @@
-## nfunct postman
+## nfunct techniques
 [//]: # (<img src="https://th.bing.com/th/id/OIP.iHbPgMP5K4WWaP2RDBD37wHaHa?w=148&h=180&c=7&o=5&pid=1.7" height="60" width="60">)
 
-nfunct postman is a collection of tcpdumps and postman files for the creation of nfunct techniques.
+nfunct techniques is a collection of test conditions for various non-functional testing techniques. See below for addtional details.
 
 *Open Source Software (OSS) = Opportunity*
 
